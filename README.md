@@ -1,5 +1,3 @@
-<img src="avatar.png" width="200"/>  
-
 - 👋 Hi, I’m **@breeev** !
 - 👀 I’m interested in **music** and everything about making it, producing it, coding it... Got a [Bandcamp](https://breee.bandcamp.com).
 - 🌱 I’m currently learning **networks & telecoms** / **cyberdefense**.
