@@ -6,8 +6,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=p6nj&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=p6nj&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p6nj&layout=compact&hide=jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p6nj&layout=compact&hide=jupyter%20notebook&theme=dark" />
 </a>
