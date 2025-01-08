@@ -11,6 +11,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p6nj&layout=compact&hide=jupyter%20notebook&theme=dark" />
 </a>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/416369607931068426)](https://discord.com/users/416369607931068426)
